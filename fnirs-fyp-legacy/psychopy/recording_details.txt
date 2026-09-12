@@ -1,0 +1,46 @@
+RECORDING DETAILS
+
+
+Environment - 
+    The recording will take place in a special room in the "Centre for Human Brain Health" on the UOB campus. This is where the LUMO headset is stored. 
+    The sujects will be sat down in a chair, and then I will fit the LUMO headset onto their heads. 
+    This will be repeated until the LUMO application indicates that the headset is coupled correctly.
+    Next I will automatically adjust the saturation of the optodes in the headset using the default method in LUMO.
+
+    The subject will be sat in front of a monitor that is giving them instructions, and they will be hands-free throughout the test.
+    
+
+
+Optode Placement -
+    - Optodes will be placed on a single side of the head, around the motor cortex region that is on the opposite hemisphere to the hand that is tapping.
+        - For this experiment, I have chosen the right hand (and therefore left hemisphere) as the majority of my subjects will be right-handed, so the activation signal should be stronger.
+        - There will be 7 optodes placed around this area in a hexagonal pattern.
+
+
+
+Each recording will cover 3 individual trials, each with a different type. These types will be 
+    NHM - No Motion,
+    SHM - Eyebrow/face movements, 
+    LHM - Entire head movements (nodding/shaking)
+
+The trials will be identical, other than the fact that motion will be purposely induced by the subject in types 2 and 3.
+Each trial will consist of 8 activation-rest blocks, and a starting & ending baseline.
+
+Timings - 
+    3 Trials per recording: 8 blocks + 2 baselines per trial.
+
+    Action time: 10s
+    Rest time: 20s
+    Baseline time: 20s
+
+    8 * (10 + 20) + 2 * 20 = 280s per trial
+    280 * 3 = 840s recording = 14mins
+
+Task - Motor Activation
+    Finger tapping with 1 hand, to localize the activation to just 1 side of the hemisphere.
+    There will only be 1s of motion in each motion infected task
+
+
+
+
+Dont do coutdown to task, but can do countdown to motion

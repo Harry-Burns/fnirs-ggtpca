@@ -1,0 +1,15 @@
+# fNIRS toolbox
+snirf
+
+# notebook tools
+matplotlib
+ipykernel
+ipympl
+ipywidgets
+
+# notebook 3d modelling tools
+pyvistaqt
+
+# processing tools
+scipy
+statsmodels

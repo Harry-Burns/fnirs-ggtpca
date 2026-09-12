@@ -1,0 +1,10 @@
+fnirs-fyp-legacy/notes/
+fnirs-fyp-legacy/notebooks_results/
+lumo_glm_pipeline.py
+
+__pycache__/
+.venv/
+.claude/
+
+results/*
+data/*
